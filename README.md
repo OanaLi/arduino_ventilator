@@ -24,7 +24,7 @@ Acest proiect permite controlul automat al unui ventilator folosind o placă **A
 3. Temperatura dorită poate fi ajustată folosind o **telecomandă IR** (butoanele sus și jos).  
 4. Datele sunt afișate pe un ecran **LCD**:  
    - **Temperatura curentă**  
-   - **Temperatura setată**  
+   - **Temperatura dorită**  
 
 ---
 
